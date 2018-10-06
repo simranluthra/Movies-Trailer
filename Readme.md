@@ -15,4 +15,4 @@ The project consists of a webpage in which User clicks on movie poster to view t
 
 
 # Getting Started
-- Compile and run the `moviestrailer.py`
+- Compile and run the project by the command `python moviestrailer.py`
